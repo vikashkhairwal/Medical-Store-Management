@@ -1,0 +1,2 @@
+﻿C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\MedicalStoreApp\MedicalStoreApp.csproj : error  : The project file could not be loaded. Could not find a part of the path 'C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\MedicalStoreApp\MedicalStoreApp.csproj'.  C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\MedicalStoreApp\MedicalStoreApp.csproj
+

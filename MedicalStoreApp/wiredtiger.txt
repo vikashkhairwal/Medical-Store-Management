@@ -1,0 +1,9 @@
+mongod -dbpath C:\MongoDB\Server\3.0\bin\WT -storageEngine wiredTiger
+
+Not started by default
+New in 2014 in 3.0 and older
+1. Document level concurrency
+2. Compression Of data and Indexes
+3. No inplace updates
+
+Mmap (memory mapped files) --default storage engine

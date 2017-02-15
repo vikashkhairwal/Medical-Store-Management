@@ -1,0 +1,15 @@
+{"Cure":["Fever","Pain"],"Medicine ID":"1","Medicine Name":"Aspirine","Price":20,"Quantity":10,"SlotNo":"T-1-L","Type":"Tablet","_id":{"$oid":"55a6a5a8475374c0aa938300"}}
+{"Cure":["Pain","Headache","Fever"],"Medicine ID":"2","Medicine Name":"Disprin","Price":25,"Quantity":15,"SlotNo":"T-1-L","Type":"Tablet","_id":{"$oid":"55a81609ead76104495f5409"}}
+{"Cure":["Pain","Headache","Cold","Fever"],"Medicine ID":"3","Medicine Name":["Paracetamol","PCM"],"Price":10,"Quantity":20,"SlotNo":"T-1-L","Type":"Tablet","_id":{"$oid":"55a81735ead76104495f540a"}}
+{"Cure":["Pain","Headache","Cold","Fever"],"Medicine ID":"4","Medicine Name":["Paracetamol","PCM"],"Price":40,"Quantity":05,"SlotNo":"S-1-L","Type":"Syrup","_id":{"$oid":"55a8182bead76104495f540b"}}
+{"Cure":["Pain","Backpain","Jointpain","Sprains"],"Medicine ID":"5","Medicine Name":"Moov","Price":90,"Quantity":07,"SlotNo":"C-1-L","Type":"Cream","_id":{"$oid":"55a819c2ead76104495f540c"}}
+{"Cure":["Pain","Backpain","Jointpain","Sprains"],"Medicine ID":"6","Medicine Name":"Moov","Price":13,"Quantity":05,"SlotNo":"S-1-L","Type":"Spray","_id":{"$oid":"55a819feead76104495f540d"}}
+{"Cure":["Pain","Headache","Cold","Fever"],"Medicine ID":"7","Medicine Name":"Saridon","Price":95,"Quantity":15,"SlotNo":"T-1-L","Type":"Tablet","_id":{"$oid":"55a81b01ead76104495f540e"}}
+{"Cure":["Pain","Fever"],"Medicine ID":"8","Medicine Name":"Combiflam","Price":20,"Quantity":25,"SlotNo":"T-1-L","Type":"Tablet","_id":{"$oid":"55a81c01ead76104495f540f"}}
+{"Cure":["Diabetic","Unconsious"],"Medicine ID":"9","Medicine Name":"Glucose","Price":80,"Quantity":10,"SlotNo":"I-1-L","Type":"Injection","_id":{"$oid":"55a81e34ead76104495f5410"}}
+{"Cure":"Ulcer","Medicine ID":"10","Medicine Name":"Ranitidine","Price":30,"Quantity":05,"SlotNo":"I-1-L","Type":"Injection","_id":{"$oid":"55a81fbeead76104495f5411"}}
+{"Expiry Date":{"$date":"2015-10-05T13:35:15.448Z"},"Medicine ID":"12","Medicine Name":"ABC","Price":NumberInt(30),"Quantity":12,"Type":"Tablet","_id":{"$oid":"56127ca43ac3b819f88cbf2e"}}
+{"Expiry Date":{"$date":"2015-10-05T13:37:28.334Z"},"Medicine ID":"12","Medicine Name":"ABC","Price":NumberInt(23),"Quantity":20,"Type":"Capsule","_id":{"$oid":"56127d333ac3b819f88cbf2f"}}
+{"Expiry Date":{"$date":"2015-10-05T13:48:46.370Z"},"Medicine ID":"12","Medicine Name":"SADVB","Price":NumberInt(12),"Quantity":NumberInt(20),"Type":"Capsule","_id":{"$oid":"56127fd23ac3b80c3861a321"}}
+{"Expiry Date":{"$date":"2015-10-05T14:41:04.429Z"},"Medicine ID":"11","Medicine Name":"ABC","Price":NumberInt(99),"Quantity":50,"Type":"Tablet","_id":{"$oid":"56128c103ac3b8119c648097"}}
+{"Expiry Date":{"$date":"2016-05-06T11:57:27.000Z"},"Manufacturer":"RK Industries","Medicine ID":"11","Medicine Name":"Paracetamol","Price":NumberInt(10),"Quantity":NumberInt(12),"Slot No":"S-1-Middle","Type":"Tablet","_id":{"$oid":"5613b7f23ac3b81a0cf87e21"}}
